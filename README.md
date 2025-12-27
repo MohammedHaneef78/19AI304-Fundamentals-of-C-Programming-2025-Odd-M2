@@ -264,7 +264,12 @@ Thus, the program was implemented and executed successfully, and the required ou
   <img width="821" height="520" alt="iapr2-5pro" src="https://github.com/user-attachments/assets/55d55c1a-45d3-4f09-ab65-5d16515fe449" />
 
 
+
+
 #Output:
+
+
+
 <img width="823" height="437" alt="iapr2-5out" src="https://github.com/user-attachments/assets/92816416-1e8b-4d9b-83f6-2bc80dd88699" />
 
 

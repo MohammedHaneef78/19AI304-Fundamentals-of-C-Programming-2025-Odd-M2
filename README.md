@@ -56,7 +56,12 @@
 ### Step 11:
   Stop
 # Program:
+<img width="799" height="626" alt="iapr2-1pro" src="https://github.com/user-attachments/assets/5c02a714-36eb-48cf-bb90-0f0b31813ab7" />
+
 # Output:
+<img width="812" height="346" alt="iapr2-1out" src="https://github.com/user-attachments/assets/a68a738c-7c78-475b-bb56-95a2ba773371" />
+
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -88,7 +93,13 @@ Thus, the program was implemented and executed successfully, and the required ou
   Stop
 
 # Program:
+<img width="858" height="746" alt="iapr2-2pro" src="https://github.com/user-attachments/assets/ac9468e2-788c-4cb3-8a85-cf3b3b174a0c" />
+
+
 # Output:
+<img width="814" height="652" alt="iapr2-2out" src="https://github.com/user-attachments/assets/70c1ed87-3d3c-463f-8f87-1348a5a910ae" />
+
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -131,7 +142,15 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 7:   
   Stop
 # Program:
+<img width="821" height="683" alt="iapr2-3pro" src="https://github.com/user-attachments/assets/c3fcbc70-43d7-4ca5-b7b6-e682e383b881" />
+
+
 # Output:
+<img width="804" height="322" alt="iapr2-3 1out" src="https://github.com/user-attachments/assets/aaf9564f-a9a3-4a9f-829e-64f65c98fb12" />
+
+<img width="810" height="318" alt="iapr2-3 2out" src="https://github.com/user-attachments/assets/f713b2ba-b3de-459f-932d-29305cd8d269" />
+
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -179,7 +198,16 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
+<img width="808" height="612" alt="iapr2-4pro" src="https://github.com/user-attachments/assets/6ce5ca0a-6704-4f9e-a24a-b569ed6b2837" />
+
+
+
+
 # Output:
+<img width="819" height="437" alt="iapr2-4out" src="https://github.com/user-attachments/assets/44e4da30-388c-493a-a68f-96c83bf8c0f9" />
+
+
+
 # Result: 
   Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -232,6 +260,15 @@ Thus, the program was implemented and executed successfully, and the required ou
   Decrease i by 1 and go back to Step 6.
 ### Step 8:
   Stop
+# Program:
+  <img width="821" height="520" alt="iapr2-5pro" src="https://github.com/user-attachments/assets/55d55c1a-45d3-4f09-ab65-5d16515fe449" />
+
+
+#Output:
+<img width="823" height="437" alt="iapr2-5out" src="https://github.com/user-attachments/assets/92816416-1e8b-4d9b-83f6-2bc80dd88699" />
+
+
+
 # Result:
   Thus, the program was implemented and executed successfully, and the required output was obtained.
 

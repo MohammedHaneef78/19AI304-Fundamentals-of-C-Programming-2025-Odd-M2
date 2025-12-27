@@ -266,7 +266,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 
 
 
-#Output:
+# Output: 
 
 
 
